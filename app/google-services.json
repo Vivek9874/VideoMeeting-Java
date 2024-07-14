@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "763381079592",
+    "project_id": "video-meeting-9b2ae",
+    "storage_bucket": "video-meeting-9b2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763381079592:android:3a417243bd0ed89380df1d",
+        "android_client_info": {
+          "package_name": "com.rick.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763381079592-5sb101mljsknd7psfvbsestca24opdv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxUgdOUQL6_-biiGrOGFbSjdGXUuxILxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763381079592-5sb101mljsknd7psfvbsestca24opdv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763381079592:android:ea05b2c6b4f52c0d80df1d",
+        "android_client_info": {
+          "package_name": "com.viv.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763381079592-5sb101mljsknd7psfvbsestca24opdv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxUgdOUQL6_-biiGrOGFbSjdGXUuxILxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763381079592-5sb101mljsknd7psfvbsestca24opdv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
